@@ -1,1 +1,1 @@
-Clicker仅实现鼠标连点，光标保持不动；
+Clicker仅实现鼠标连点，光标保持不动；mouse_cursor_swing仅实现光标的摆动；Swing为mouse_cursor_swing.cpp的快捷版
